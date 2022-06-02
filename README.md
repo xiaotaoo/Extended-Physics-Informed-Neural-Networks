@@ -32,6 +32,7 @@ This section highlights some of the obtained results from the flow past two cyli
     <img src="./Media/xPINN Output.png" width="80%", height="80%"<br/>
     <em> </br> xPINN Output</em>
 </p>
+
 # Acknowledgements
 This project uses code from [Rao's Repository](https://github.com/Raocp/PINN-laminar-flow) as an experimental baseline while making modifications for the xPINN.
 
