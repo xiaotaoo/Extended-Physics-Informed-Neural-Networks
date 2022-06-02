@@ -22,6 +22,16 @@ The following flow problems were used in this project.
     <em> </br> Flow Past Two Cylinders in Tandem Setup</em>
 </p>
 
+# Results Preview
+This section highlights some of the obtained results from the flow past two cylinders in Tandem
+<p align="center">
+    <img src="./Media/PINN Output.png" width="80%", height="80%"<br/>
+    <em> </br> PINN Output</em>
+</p>
+<p align="center">
+    <img src="./Media/xPINN Output.png" width="80%", height="80%"<br/>
+    <em> </br> xPINN Output</em>
+</p>
 # Acknowledgements
 This project uses code from [Rao's Repository](https://github.com/Raocp/PINN-laminar-flow) as an experimental baseline while making modifications for the xPINN.
 
