@@ -7,3 +7,9 @@ The Extended Physics Informed Neural Network (xPINN) is an extension to the orig
     <img src="./Media/xPINN Schematic .png" width="80%", height="80%"<br/>
     <em> </br> Overview of the xPINN Structure</em>
 </p>
+
+
+# Acknowledgements
+This project uses code from [Rao's Repository](https://github.com/Raocp/PINN-laminar-flow) as an experimental baseline while making modifications for the xPINN.
+
+The [Physics Informed Neural Network](https://github.com/maziarraissi/PINNs) and [Extended Physics Informed Neural Network](https://github.com/AmeyaJagtap/XPINNs) were inspired by Raissi et al. and Jagtap et al., where they conducted initial research into these novel frameworks for flow predictions. 
