@@ -8,6 +8,19 @@ The Extended Physics Informed Neural Network (xPINN) is an extension to the orig
     <em> </br> Overview of the xPINN Structure</em>
 </p>
 
+# Flow Problems
+The following flow problems were used in this project.
+1. Flow past single cylinder
+<p align="center">
+    <img src="./Media/setup1.png" width="80%", height="80%"<br/>
+    <em> </br> Overview of the xPINN Structure</em>
+</p>
+
+2. Flow past two cylinders in tandem
+<p align="center">
+    <img src="./Media/setup2.png" width="80%", height="80%"<br/>
+    <em> </br> Overview of the xPINN Structure</em>
+</p>
 
 # Acknowledgements
 This project uses code from [Rao's Repository](https://github.com/Raocp/PINN-laminar-flow) as an experimental baseline while making modifications for the xPINN.
