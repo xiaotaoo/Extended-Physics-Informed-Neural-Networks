@@ -13,13 +13,13 @@ The following flow problems were used in this project.
 1. Flow past single cylinder
 <p align="center">
     <img src="./Media/setup1.png" width="80%", height="80%"<br/>
-    <em> </br> Overview of the xPINN Structure</em>
+    <em> </br> Flow Past Single Cylinder Setup</em>
 </p>
 
 2. Flow past two cylinders in tandem
 <p align="center">
     <img src="./Media/setup2.png" width="80%", height="80%"<br/>
-    <em> </br> Overview of the xPINN Structure</em>
+    <em> </br> Flow Past Two Cylinders in Tandem Setup</em>
 </p>
 
 # Acknowledgements
